@@ -1,7 +1,17 @@
-# Projeto_siteAgendamento como projeto para a faculdade Toledo Prudente
-# Marina Beauty - Sistema de Agendamentos
+💅 Sistema de Agendamento - Marina Beauty
+O Sistema de Agendamento Marina Beauty é uma plataforma desenvolvida para gerenciar o agendamento de atendimentos de clientes. O sistema permite que os usuários consultem agendamentos passados e agendem novos serviços. O site é simples, intuitivo e oferece uma interface limpa para facilitar a interação dos clientes com os serviços de beleza oferecidos.
 
-## 📌 Configuração do Banco de Dados
+Funcionalidades:
+Consulta de agendamentos por telefone.
+Exibição de atendimentos agendados com data e horário.
+Interface amigável e fácil de usar.
+
+🛠️ Tecnologias Utilizadas:
+PHP (Backend)
+MySQL (Banco de Dados)
+Bootstrap (Frontend)
+
+##🔧 Configuração do Banco de Dados:
 
 Para rodar este projeto, você precisará configurar um banco MySQL local.
 
